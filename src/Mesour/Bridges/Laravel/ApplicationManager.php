@@ -7,7 +7,7 @@
  * For full licence and copyright please view the file licence.md in root of this project
  */
 
-namespace App\Mesour;
+namespace Mesour\Bridges\Nette\Laravel;
 
 use Mesour\InvalidArgumentException;
 
