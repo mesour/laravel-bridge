@@ -7,7 +7,7 @@
  * For full licence and copyright please view the file licence.md in root of this project
  */
 
-namespace Mesour\Bridges\Nette\Laravel;
+namespace Mesour\Bridges\Laravel;
 
 use Illuminate\Support\ServiceProvider;
 
